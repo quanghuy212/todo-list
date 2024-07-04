@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_light_primary">#FF6200EE</color>
+    <color name="my_light_primary_variant">#3700B3</color>
+    <color name="my_light_secondary">#03DAC6</color>
+    <color name="button_background_color">#E4D2D6</color> <!-- Màu nền button -->
+    <color name="button_text_color">#FFFFFF</color> <!-- Màu chữ button -->
+
+    <color name="background_checkbox_ischeck">#778899</color> <!-- Màu background khi check -->
+    <color name="checkbox_ischeck">#708090</color> <!-- Màu ô checkbox khi check -->
+
+    <color name="delete_color">#eb4034</color>
+    <color name="edit_color">#ccb81d</color>
+</resources>
